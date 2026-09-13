@@ -11,8 +11,8 @@ SWEP.Spawnable = true
 SWEP.AdminOnly = false
 
 SWEP.UseHands = true
-SWEP.ViewModel = "models/weapons/c_pistol.mdl"
-SWEP.WorldModel = "models/weapons/w_pistol.mdl"
+SWEP.ViewModel = "models/weapons/gammaglock/v_gammaglock.mdl"
+SWEP.WorldModel = "models/weapons/w_gammaglock.mld
 
 SWEP.Primary.ClipSize = 15
 SWEP.Primary.DefaultClip = 15
